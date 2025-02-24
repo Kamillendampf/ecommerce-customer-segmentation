@@ -25,33 +25,7 @@ This project applies clustering algorithms (KMeans) to the dataset to group cust
 - **Data Preprocessing**: Clean and aggregate the dataset by customer.
 - **KMeans Clustering**: Use KMeans to segment customers based on their spending and purchasing patterns.
 - **Cluster Visualization**: Plot the clusters with color-coded points and show the ranges of each cluster for better interpretability.
-
-## Installation
-
-### Prerequisites
-
-To run this project, you will need Python and pip installed on your system.
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/uci-ml-repo/ucimlrepo.git
-    cd ucimlrepo
-    ```
-
-2. Create and activate a virtual environment:
-
-    ```bash
-    python -m venv .venv
-    source .venv/bin/activate  # On Windows use .venv\Scripts\activate
-    ```
-
-3. Install the required dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
+  
 ### Dataset
 
 You can download the dataset from the UCI Machine Learning Repository:
